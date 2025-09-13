@@ -95,4 +95,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0175-combine-two-tables) |
+| [0180-consecutive-numbers](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
