@@ -91,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0179-largest-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
