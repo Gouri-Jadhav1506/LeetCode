@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0179-largest-number) |
 ## Hash Table
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0027-remove-element) |
 ## Greedy
 |  |
 | ------- |
