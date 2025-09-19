@@ -108,4 +108,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0180-consecutive-numbers) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
