@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0061-rotate-list) |
 ## Greedy
 |  |
 | ------- |
