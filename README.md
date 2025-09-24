@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0048-rotate-image) |
 | [0179-largest-number](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
