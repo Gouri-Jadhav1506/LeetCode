@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0039-combination-sum) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0048-rotate-image) |
 | [0179-largest-number](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0179-largest-number) |
 ## Hash Table
