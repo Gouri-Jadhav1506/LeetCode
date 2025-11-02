@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0179-largest-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0067-add-binary) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Gouri-Jadhav1506/LeetCode/tree/master/0067-add-binary) |
 ## Sorting
 |  |
